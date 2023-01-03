@@ -1,5 +1,9 @@
-NextJS + Bootstrap (Atlantis Admin Template)
+# NextJS + Bootstrap (Atlantis Admin Template)
 
+## TODO :
+[] still need improve changes class of bootstrap version (prev 4.1.3 now use 5.2.3)
+[] sidebar still can't collapse
+[] click action & hover, some need show other component
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
