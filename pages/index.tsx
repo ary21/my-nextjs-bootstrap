@@ -305,11 +305,6 @@ export default function Home() {
               <nav className="pull-left">
                 <ul className="nav">
                   <li className="nav-item">
-                    <a className="nav-link" href="http://www.themekita.com">
-                      ThemeKita
-                    </a>
-                  </li>
-                  <li className="nav-item">
                     <a className="nav-link" href="#">
                       Help
                     </a>
@@ -323,8 +318,7 @@ export default function Home() {
               </nav>
               <div className="copyright ml-auto">
                 2018, made with{" "}
-                <i className="fa fa-heart heart text-danger"></i> by{" "}
-                <a href="http://www.themekita.com">ThemeKita</a>
+                <i className="fa fa-heart heart text-danger"></i>
               </div>
             </div>
           </footer>
