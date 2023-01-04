@@ -1,5 +1,7 @@
 # NextJS + Bootstrap (Atlantis Admin Template)
 
+![My Image](ss.png)
+
 ## TODO :
 - [ ] still need improve changes class of bootstrap version (prev 4.1.3 now use 5.2.3)
 - [ ] sidebar still can't collapse
